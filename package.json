@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-szamlama",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "n8n community node for Számláma, the Hungarian online invoicing service: issue invoices from your workflows and react to document events.",
   "license": "MIT",
   "homepage": "https://szamlama.hu/",
@@ -10,8 +10,7 @@
     "invoice",
     "invoicing",
     "hungary",
-    "nav",
-    "számla"
+    "nav"
   ],
   "author": {
     "name": "Software-Wolf Kft.",
@@ -46,10 +45,10 @@
   },
   "devDependencies": {
     "@n8n/node-cli": "*",
-    "eslint": "9.32.0",
-    "prettier": "3.6.2",
-    "release-it": "^21.1.0",
-    "typescript": "5.9.2"
+    "eslint": "9.39.4",
+    "prettier": "3.8.3",
+    "release-it": "20.2.0",
+    "typescript": "5.9.3"
   },
   "peerDependencies": {
     "n8n-workflow": "*"
