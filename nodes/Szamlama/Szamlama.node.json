@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-szamlama.szamlama",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Finance & Accounting"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/gelenfarkas/n8n-nodes-szamlama#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/gelenfarkas/n8n-nodes-szamlama#readme"
+			}
+		]
+	}
+}
