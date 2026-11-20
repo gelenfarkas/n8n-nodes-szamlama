@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-szamlama",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "n8n community node for Számláma, the Hungarian online invoicing service: issue invoices from your workflows and react to document events.",
   "license": "MIT",
   "homepage": "https://szamlama.hu/",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gelenfarkas/n8n-nodes-szamlama.git"
+    "url": "git+https://github.com/gelenfarkas/n8n-nodes-szamlama.git"
   },
   "scripts": {
     "build": "n8n-node build",
